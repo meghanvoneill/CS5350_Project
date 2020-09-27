@@ -1,0 +1,2251 @@
+defendant_age,defendant_gender,num_victims,victim_genders,offence_category,offence_subcategory
+54,male,1,male,deception,fraud
+not known,male,1,female,theft,simpleLarceny
+18,male,1,male,theft,theftFromPlace
+23,male,1,male,theft,theftFromPlace
+not known,male,1,female,theft,theftFromPlace
+30,male,1,male,kill,murder
+22,female,0,nan,miscellaneous,concealingABirth
+not known,male,1,male,theft,theftFromPlace
+not known,male,0,nan,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+21,male,1,male,theft,theftFromPlace
+not known,male,1,female,violentTheft,highwayRobbery
+not known,female,1,male,royalOffences,coiningOffences
+39,male,1,male,kill,manslaughter
+25,male,1,male,theft,simpleLarceny
+27,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,animalTheft
+20,female,1,male,theft,simpleLarceny
+not known,male,4,male;male;male;male,theft,embezzlement
+23,male,2,male;male,theft,pocketpicking
+not known,male,1,male,violentTheft,highwayRobbery
+19,male,1,female,theft,burglary
+not known,male,1,male,deception,fraud
+not known,male,0,nan,deception,fraud
+not known,female,1,male,theft,grandLarceny
+58,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+38,male,0,nan,royalOffences,coiningOffences
+40,male,2,male;male,theft,simpleLarceny
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,theftFromPlace
+not known,female,1,male,theft,simpleLarceny
+not known,female,1,male,theft,shoplifting
+33,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,pettyLarceny
+not known,male,1,male,theft,pettyLarceny
+40,female,1,female,theft,grandLarceny
+not known,male,1,male,damage,other
+23,male,1,female,sexual,assaultWithIntent
+not known,male,1,male,theft,receiving
+13,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+30,male,1,male,theft,simpleLarceny
+not known,male,1,female,kill,murder
+45,male,1,female,breakingPeace,wounding
+not known,female,1,female,theft,theftFromPlace
+not known,female,1,male,theft,theftFromPlace
+26,male,2,female;female,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+26,male,1,male,theft,grandLarceny
+not known,male,1,male,kill,manslaughter
+not known,female,1,male,theft,grandLarceny
+28,male,1,male,theft,stealingFromMaster
+not known,male,0,nan,deception,perjury
+not known,male,0,nan,deception,forgery
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,burglary
+not known,male,2,male;male,theft,grandLarceny
+not known,female,1,female,theft,grandLarceny
+not known,male,0,nan,theft,extortion
+not known,male,2,male;male,theft,grandLarceny
+18,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+16,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,pocketpicking
+not known,male,0,nan,deception,perjury
+not known,male,2,male;male,theft,animalTheft
+not known,male,1,male,theft,pocketpicking
+17,male,1,male,theft,simpleLarceny
+20,male,1,male,violentTheft,robbery
+55,male,0,nan,theft,mail
+35,male,1,male,violentTheft,robbery
+20,male,1,male,theft,shoplifting
+52,male,0,nan,royalOffences,coiningOffences
+24,male,1,male,theft,burglary
+23,male,1,male,theft,simpleLarceny
+not known,male,0,nan,deception,perjury
+not known,male,1,male,theft,shoplifting
+not known,female,1,female,theft,grandLarceny
+not known,male,0,nan,sexual,other
+24,male,1,male,deception,fraud
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,simpleLarceny
+not known,female,1,female,theft,stealingFromMaster
+not known,male,1,female,theft,grandLarceny
+not known,female,1,male,theft,animalTheft
+23,male,1,male,theft,grandLarceny
+31,male,2,female;male,theft,burglary
+not known,female,0,nan,sexual,bigamy
+not known,male,0,nan,sexual,sodomy
+not known,male,1,male,miscellaneous,pervertingJustice
+not known,male,1,male,theft,grandLarceny
+55,male,1,male,breakingPeace,wounding
+27,male,1,female,theft,housebreaking
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,other
+not known,female,1,male,theft,pocketpicking
+13,male,1,male,theft,simpleLarceny
+20,male,1,male,theft,simpleLarceny
+not known,male,0,nan,theft,pocketpicking
+23,female,1,female,theft,grandLarceny
+23,male,0,nan,damage,arson
+43,male,1,female,sexual,indecentAssault
+21,male,2,male;male,theft,simpleLarceny
+not known,male,1,female,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,burglary
+not known,female,1,male,violentTheft,robbery
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,royalOffences,religiousOffences
+52,male,1,indeterminate,theft,simpleLarceny
+34,female,1,male,theft,simpleLarceny
+not known,female,1,female,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,shoplifting
+20,male,2,male;male,deception,forgery
+20,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,shoplifting
+not known,male,1,female,theft,other
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,kill,manslaughter
+not known,male,0,nan,theft,embezzlement
+not known,male,1,female,theft,grandLarceny
+not known,male,1,female,sexual,rape
+not known,female,1,male,theft,theftFromPlace
+40,male,1,male,theft,simpleLarceny
+25,female,1,male,theft,simpleLarceny
+17,male,1,male,theft,pocketpicking
+20,male,1,male,theft,simpleLarceny
+14,male,0,nan,theft,embezzlement
+34,male,1,indeterminate,theft,simpleLarceny
+31,female,0,nan,royalOffences,coiningOffences
+34,male,1,female,sexual,rape
+not known,female,2,male;female,theft,other
+not known,female,1,male,theft,grandLarceny
+18,male,1,male,theft,pocketpicking
+not known,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,stealingFromMaster
+23,male,0,nan,royalOffences,coiningOffences
+not known,male,0,nan,theft,grandLarceny
+not known,female,1,male,breakingPeace,wounding
+25,male,1,male,theft,animalTheft
+52,male,1,male,theft,simpleLarceny
+28,female,1,female,theft,theftFromPlace
+37,male,1,male,theft,grandLarceny
+21,male,1,male,theft,housebreaking
+not known,male,1,indeterminate,theft,theftFromPlace
+22,male,0,nan,royalOffences,coiningOffences
+30,male,0,nan,theft,simpleLarceny
+26,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,pocketpicking
+not known,female,3,male;male;male,theft,pocketpicking
+27,male,1,female,kill,murder
+46,female,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,breakingPeace,riot
+not known,male,1,male,sexual,rape
+35,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,pocketpicking
+50,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,stealingFromMaster
+18,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,other
+25,male,1,female,sexual,rape
+not known,female,0,nan,kill,infanticide
+not known,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,animalTheft
+36,male,1,female,breakingPeace,threateningBehaviour
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,burglary
+18,male,1,female,theft,pocketpicking
+36,female,1,female,theft,housebreaking
+14,male,1,female,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+24,male,1,female,sexual,rape
+not known,male,1,male,theft,embezzlement
+50,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+28,male,0,nan,breakingPeace,assault
+not known,male,1,male,breakingPeace,wounding
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+23,male,1,female,sexual,assaultWithIntent
+not known,female,0,nan,kill,infanticide
+not known,male,1,male,theft,grandLarceny
+27,male,1,male,theft,simpleLarceny
+56,male,1,male,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+19,male,2,male;female,theft,simpleLarceny
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,grandLarceny
+20,male,0,nan,royalOffences,coiningOffences
+not known,female,1,indeterminate,theft,theftFromPlace
+65,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+19,female,1,male,theft,pocketpicking
+not known,male,0,nan,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,sexual,indecentAssault
+not known,male,1,male,theft,grandLarceny
+40,female,1,male,theft,grandLarceny
+not known,male,0,nan,deception,perjury
+35,male,1,female,sexual,indecentAssault
+not known,male,1,male,violentTheft,highwayRobbery
+36,female,1,male,theft,stealingFromMaster
+49,male,1,male,theft,extortion
+not known,male,1,female,theft,burglary
+24,female,1,male,theft,simpleLarceny
+not known,male,1,male,deception,fraud
+34,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+23,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+19,female,1,male,theft,grandLarceny
+60,male,0,nan,miscellaneous,pervertingJustice
+38,female,1,male,breakingPeace,wounding
+not known,male,0,nan,theft,embezzlement
+not known,male,1,male,deception,bankrupcy
+31,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+34,female,1,male,sexual,bigamy
+41,female,1,male,breakingPeace,wounding
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+52,male,1,female,sexual,rape
+not known,male,1,male,theft,housebreaking
+not known,male,0,nan,theft,grandLarceny
+not known,male,1,male,theft,other
+not known,female,1,male,theft,grandLarceny
+18,male,1,male,theft,simpleLarceny
+30,male,0,nan,theft,embezzlement
+not known,female,1,male,kill,murder
+not known,male,1,male,theft,pocketpicking
+not known,male,0,nan,deception,perjury
+35,male,1,male,theft,simpleLarceny
+24,male,1,male,theft,burglary
+44,male,1,male,breakingPeace,wounding
+34,male,1,male,theft,simpleLarceny
+30,female,1,male,theft,pocketpicking
+not known,male,0,nan,theft,receiving
+32,male,1,male,deception,forgery
+not known,male,1,male,theft,stealingFromMaster
+17,male,1,female,sexual,rape
+not known,female,4,female;female;male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+18,male,1,male,theft,burglary
+32,male,2,male;male,theft,grandLarceny
+not known,male,0,nan,theft,embezzlement
+not known,female,1,male,theft,receiving
+43,male,1,female,theft,theftFromPlace
+not known,male,1,male,theft,pettyLarceny
+27,male,1,male,theft,grandLarceny
+not known,female,1,male,breakingPeace,wounding
+24,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,theftFromPlace
+not known,female,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,simpleLarceny
+not known,female,0,nan,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+29,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,other
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+24,male,1,male,theft,embezzlement
+22,male,1,male,theft,grandLarceny
+28,male,1,female,sexual,rape
+34,male,1,indeterminate,theft,mail
+not known,male,1,male,theft,shoplifting
+23,male,1,male,theft,simpleLarceny
+not known,female,1,female,theft,pettyLarceny
+22,male,0,nan,breakingPeace,assault
+29,male,0,nan,theft,embezzlement
+34,male,2,male;male,sexual,assaultWithSodomiticalIntent
+not known,male,1,male,theft,housebreaking
+not known,male,1,male,deception,forgery
+32,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,deception,fraud
+20,female,1,female,theft,grandLarceny
+15,female,1,male,theft,stealingFromMaster
+31,male,1,female,breakingPeace,wounding
+not known,male,1,male,theft,grandLarceny
+17,female,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,deception,fraud
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+thirteen,male,1,male,theft,theftFromPlace
+not known,female,1,female,theft,burglary
+not known,female,1,male,theft,theftFromPlace
+not known,female,1,male,theft,pocketpicking
+not known,male,0,nan,deception,perjury
+22,male,1,male,theft,grandLarceny
+not known,female,1,female,theft,pocketpicking
+21,male,1,male,theft,burglary
+17,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,shoplifting
+not known,female,1,male,theft,receiving
+32,male,1,male,theft,burglary
+not known,male,0,nan,deception,fraud
+not known,male,1,male,kill,manslaughter
+67,male,1,male,deception,forgery
+21,male,1,male,theft,burglary
+not known,male,1,male,theft,grandLarceny
+20,male,1,female,breakingPeace,wounding
+29,male,1,male,deception,forgery
+not known,male,1,male,theft,grandLarceny
+34,male,1,male,theft,simpleLarceny
+37,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,theftFromPlace
+not known,female,2,male;male,theft,grandLarceny
+not known,male,0,nan,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+13,male,1,male,theft,simpleLarceny
+24,female,1,male,theft,simpleLarceny
+17,male,1,male,violentTheft,robbery
+not known,male,1,indeterminate,theft,mail
+30,male,1,male,theft,simpleLarceny
+44,male,1,female,sexual,rape
+not known,male,1,male,theft,pettyLarceny
+not known,male,3,male;female;male,theft,grandLarceny
+not known,male,0,nan,theft,pocketpicking
+23,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,other
+not known,male,0,nan,sexual,bigamy
+not known,male,1,male,theft,grandLarceny
+40,male,0,nan,deception,perjury
+not known,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,miscellaneous,returnFromTransportation
+21,male,1,male,theft,theftFromPlace
+19,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,pocketpicking
+53,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,animalTheft
+20,male,0,nan,sexual,sodomy
+not known,male,1,male,theft,housebreaking
+not known,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,female,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+34,male,1,male,theft,grandLarceny
+23,male,0,nan,deception,fraud
+not known,male,1,male,theft,simpleLarceny
+32,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,animalTheft
+22,female,1,male,theft,simpleLarceny
+41,female,1,male,theft,stealingFromMaster
+27,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+33,male,1,male,theft,grandLarceny
+19,male,1,male,theft,theftFromPlace
+not known,male,0,nan,sexual,sodomy
+not known,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,miscellaneous,conspiracy
+not known,male,1,male,theft,burglary
+23,male,1,male,breakingPeace,wounding
+15,male,1,male,theft,pocketpicking
+not known,male,1,female,violentTheft,highwayRobbery
+25,female,1,male,theft,shoplifting
+not known,female,1,male,theft,other
+36,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+17,male,1,female,theft,burglary
+not known,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,shoplifting
+not known,male,2,indeterminate;indeterminate,theft,simpleLarceny
+not known,male,1,male,theft,other
+59,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+24,male,1,male,theft,simpleLarceny
+26,female,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,robbery
+17,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,kill,manslaughter
+50,male,2,male;male,theft,grandLarceny
+22,male,1,male,theft,shoplifting
+not known,male,0,nan,theft,housebreaking
+30,female,1,female,theft,grandLarceny
+24,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+26,male,5,male;male;male;male;male,breakingPeace,wounding
+24,male,1,male,theft,simpleLarceny
+31,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+26,male,1,male,theft,simpleLarceny
+not known,female,0,nan,kill,infanticide
+not known,male,1,male,theft,animalTheft
+22,male,1,male,kill,manslaughter
+25,male,0,nan,royalOffences,coiningOffences
+not known,male,0,nan,sexual,sodomy
+not known,male,2,male;male,theft,grandLarceny
+not known,female,1,male,theft,shoplifting
+not known,male,2,female;female,sexual,bigamy
+22,male,1,male,theft,pocketpicking
+40,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,simpleLarceny
+26,male,0,nan,deception,forgery
+30,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+31,male,0,nan,royalOffences,coiningOffences
+not known,male,0,nan,deception,bankrupcy
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,robbery
+47,male,1,indeterminate,deception,fraud
+not known,female,1,female,theft,simpleLarceny
+26,male,1,female,violentTheft,robbery
+not known,male,1,male,theft,burglary
+22,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,pocketpicking
+20,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,theftFromPlace
+not known,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,burglary
+22,male,1,male,theft,pocketpicking
+17,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+26,male,3,female;female;male,violentTheft,robbery
+19,male,1,female,sexual,rape
+14,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,female,theft,grandLarceny
+44,female,0,nan,royalOffences,coiningOffences
+not known,male,0,nan,theft,other
+not known,male,2,female;female,theft,housebreaking
+30,male,1,male,theft,grandLarceny
+not known,female,2,indeterminate;indeterminate,deception,fraud
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,breakingPeace,wounding
+not known,female,0,nan,sexual,bigamy
+not known,female,1,male,theft,theftFromPlace
+32,male,2,female;female,deception,fraud
+17,male,1,male,theft,simpleLarceny
+46,female,1,female,theft,simpleLarceny
+not known,male,1,female,theft,pettyLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+29,female,1,male,theft,grandLarceny
+22,male,2,male;male,theft,grandLarceny
+22,male,1,male,theft,pocketpicking
+35,male,1,female,damage,arson
+not known,male,0,nan,theft,grandLarceny
+17,male,1,male,theft,stealingFromMaster
+not known,male,0,nan,royalOffences,seditiousWords
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+31,female,1,male,theft,grandLarceny
+not known,female,0,nan,theft,grandLarceny
+22,male,0,nan,deception,fraud
+not known,male,1,male,theft,stealingFromMaster
+not known,male,0,nan,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+36,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+40,male,1,indeterminate,theft,mail
+not known,male,1,male,theft,stealingFromMaster
+20,male,1,male,theft,stealingFromMaster
+22,male,1,male,theft,shoplifting
+not known,female,1,male,theft,pocketpicking
+20,male,1,male,violentTheft,robbery
+30,male,1,female,breakingPeace,wounding
+21,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,0,nan,deception,forgery
+not known,male,1,female,theft,grandLarceny
+not known,female,2,female;male,violentTheft,highwayRobbery
+not known,male,1,male,theft,other
+not known,male,1,male,kill,murder
+16,male,1,male,theft,grandLarceny
+16,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,theft,simpleLarceny
+42,male,1,male,theft,grandLarceny
+35,male,1,male,theft,simpleLarceny
+21,female,0,nan,royalOffences,coiningOffences
+not known,male,2,male;male,theft,burglary
+not known,male,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,other
+not known,male,1,male,theft,grandLarceny
+not known,female,2,male;male,theft,theftFromPlace
+20,male,1,female,theft,housebreaking
+41,male,1,female,sexual,rape
+19,male,0,nan,royalOffences,coiningOffences
+not known,male,2,female;female,sexual,bigamy
+not known,male,1,male,theft,theftFromPlace
+24,male,1,male,theft,shoplifting
+20,male,1,male,theft,grandLarceny
+not known,male,3,male;male;male,theft,grandLarceny
+22,male,1,male,damage,other
+26,male,1,male,theft,burglary
+not known,male,1,male,theft,housebreaking
+not known,male,0,nan,deception,perjury
+28,male,0,nan,deception,perjury
+22,male,0,nan,royalOffences,coiningOffences
+22,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,grandLarceny
+not known,male,3,indeterminate;male;indeterminate,deception,fraud
+not known,male,1,male,theft,housebreaking
+30,male,0,nan,deception,fraud
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,embezzlement
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,housebreaking
+not known,male,1,male,violentTheft,robbery
+18,male,1,male,theft,stealingFromMaster
+29,male,0,nan,sexual,sodomy
+not known,male,2,female;male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+39,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,robbery
+35,female,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,grandLarceny
+not known,female,1,indeterminate,theft,theftFromPlace
+31,male,0,nan,deception,forgery
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,stealingFromMaster
+52,male,0,nan,sexual,other
+50,male,0,nan,theft,embezzlement
+25,male,1,male,theft,simpleLarceny
+62,male,1,male,deception,fraud
+30,male,1,male,theft,simpleLarceny
+18,female,1,female,theft,simpleLarceny
+not known,male,0,nan,royalOffences,coiningOffences
+not known,female,2,male;female,theft,housebreaking
+not known,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,simpleLarceny
+23,male,0,nan,royalOffences,coiningOffences
+19,male,1,male,theft,embezzlement
+not known,male,1,male,violentTheft,highwayRobbery
+36,female,1,male,theft,simpleLarceny
+20,male,0,nan,deception,forgery
+61,male,2,female;female,sexual,indecentAssault
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+22,male,1,male,theft,grandLarceny
+47,female,2,female;male,theft,grandLarceny
+not known,male,1,male,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,simpleLarceny
+26,male,1,male,theft,pocketpicking
+24,female,0,nan,deception,forgery
+26,male,1,female,violentTheft,robbery
+20,male,1,male,theft,simpleLarceny
+not known,male,1,female,violentTheft,robbery
+34,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,female,1,male,theft,simpleLarceny
+20,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,pocketpicking
+not known,male,2,male;male,theft,grandLarceny
+46,male,1,indeterminate,theft,stealingFromMaster
+not known,female,0,nan,sexual,bigamy
+not known,male,2,male;male,deception,forgery
+not known,male,1,male,theft,grandLarceny
+17,male,0,nan,deception,forgery
+19,female,1,male,theft,grandLarceny
+23,male,2,female;male,miscellaneous,kidnapping
+16,male,1,male,violentTheft,robbery
+60,male,1,male,deception,fraud
+26,male,1,male,theft,stealingFromMaster
+not known,female,1,male,theft,grandLarceny
+52,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,other
+19,male,0,nan,royalOffences,coiningOffences
+26,male,1,male,theft,theftFromPlace
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,violentTheft,highwayRobbery
+23,male,1,male,deception,forgery
+40,male,1,female,theft,pocketpicking
+not known,female,0,nan,royalOffences,coiningOffences
+19,female,2,female;male,violentTheft,highwayRobbery
+not known,male,1,female,kill,other
+38,female,1,male,theft,grandLarceny
+19,male,1,male,theft,burglary
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,kill,manslaughter
+not known,male,2,male;male,theft,burglary
+not known,male,1,male,theft,stealingFromMaster
+26,male,1,female,theft,burglary
+21,male,1,male,theft,simpleLarceny
+not known,female,0,nan,deception,perjury
+not known,male,1,male,theft,theftFromPlace
+51,male,1,male,theft,grandLarceny
+40,male,1,male,kill,manslaughter
+not known,male,2,male;male,theft,burglary
+not known,male,1,male,theft,grandLarceny
+15,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+24,male,1,male,theft,pocketpicking
+19,male,2,male;male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+14,male,1,male,theft,shoplifting
+not known,female,1,male,royalOffences,coiningOffences
+21,male,1,male,breakingPeace,wounding
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,pocketpicking
+44,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,burglary
+not known,male,1,male,violentTheft,robbery
+not known,male,1,male,theft,stealingFromMaster
+21,male,1,male,theft,pocketpicking
+not known,male,2,male;male,theft,grandLarceny
+not known,female,2,male;male,sexual,bigamy
+61,male,1,male,theft,embezzlement
+17,male,1,male,theft,simpleLarceny
+16,male,1,male,theft,simpleLarceny
+22,female,0,nan,breakingPeace,wounding
+not known,female,1,male,theft,grandLarceny
+15,male,1,male,theft,pocketpicking
+40,male,0,nan,breakingPeace,assault
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+23,male,1,male,theft,animalTheft
+not known,male,1,male,theft,simpleLarceny
+16,male,1,male,breakingPeace,threateningBehaviour
+36,male,0,nan,sexual,sodomy
+not known,male,1,male,theft,grandLarceny
+25,male,1,male,deception,forgery
+42,male,1,indeterminate,deception,fraud
+not known,male,1,male,theft,theftFromPlace
+not known,female,2,male;male,theft,housebreaking
+not known,male,6,male;male;male;male;male;male,deception,forgery
+26,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,pocketpicking
+28,male,1,male,theft,stealingFromMaster
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,receiving
+23,male,2,male;male,theft,theftFromPlace
+23,male,2,male;male,violentTheft,highwayRobbery
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,pocketpicking
+22,female,2,male;female,theft,stealingFromMaster
+not known,male,1,male,theft,theftFromPlace
+not known,female,1,female,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,burglary
+13,male,1,female,breakingPeace,wounding
+not known,male,1,male,theft,burglary
+not known,female,1,male,theft,simpleLarceny
+28,female,1,male,theft,grandLarceny
+66,male,1,male,royalOffences,coiningOffences
+not known,male,3,male;male;male,theft,grandLarceny
+not known,male,0,nan,deception,forgery
+40,male,1,male,theft,simpleLarceny
+43,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,embezzlement
+41,male,2,female;female,sexual,bigamy
+27,male,0,nan,royalOffences,coiningOffences
+15,male,1,female,sexual,rape
+27,male,0,nan,royalOffences,coiningOffences
+30,male,1,male,theft,simpleLarceny
+16,male,1,female,theft,grandLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,burglary
+not known,male,1,male,theft,other
+43,male,2,female;male,theft,theftFromPlace
+21,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,embezzlement
+not known,female,1,male,theft,grandLarceny
+13,male,0,nan,deception,fraud
+not known,male,4,male;male;male;male,theft,theftFromPlace
+not known,female,1,male,breakingPeace,wounding
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+48,male,2,male;male,theft,housebreaking
+not known,female,1,male,theft,other
+not known,male,1,male,theft,burglary
+34,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+26,male,1,male,violentTheft,robbery
+14,male,1,male,theft,stealingFromMaster
+15,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+18,male,0,nan,royalOffences,coiningOffences
+19,male,1,female,theft,burglary
+49,female,1,male,theft,stealingFromMaster
+not known,male,2,male;male,deception,forgery
+12,male,2,male;male,theft,theftFromPlace
+21,male,1,indeterminate,theft,mail
+not known,male,1,female,theft,grandLarceny
+not known,male,3,male;male;male,theft,stealingFromMaster
+23,female,1,male,theft,simpleLarceny
+not known,male,0,nan,miscellaneous,other
+24,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+30,female,1,female,breakingPeace,wounding
+not known,male,1,male,theft,grandLarceny
+21,male,1,female,theft,simpleLarceny
+not known,male,1,female,violentTheft,highwayRobbery
+not known,male,1,male,theft,pocketpicking
+not known,male,0,nan,theft,receiving
+18,male,1,male,theft,simpleLarceny
+not known,male,1,male,kill,murder
+not known,male,1,female,theft,theftFromPlace
+17,male,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,grandLarceny
+22,male,1,female,violentTheft,robbery
+not known,female,0,nan,royalOffences,coiningOffences
+31,female,1,male,kill,murder
+19,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,theftFromPlace
+34,male,4,male;male;male;male,deception,fraud
+17,male,1,female,violentTheft,robbery
+not known,male,1,male,theft,simpleLarceny
+53,female,1,male,theft,simpleLarceny
+32,male,0,nan,deception,forgery
+29,female,3,female;female;male,theft,simpleLarceny
+44,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,stealingFromMaster
+44,male,1,indeterminate,deception,forgery
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+18,male,2,female;female,theft,theftFromPlace
+24,male,1,indeterminate,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+33,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+67,male,1,male,theft,stealingFromMaster
+44,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+42,male,1,female,kill,murder
+not known,female,2,male;female,theft,housebreaking
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+22,male,2,male;male,theft,theftFromPlace
+19,male,1,male,damage,arson
+not known,male,1,male,theft,animalTheft
+not known,female,0,nan,miscellaneous,pervertingJustice
+22,male,1,male,theft,burglary
+not known,male,1,female,theft,grandLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,grandLarceny
+19,male,1,female,theft,grandLarceny
+18,male,1,male,theft,stealingFromMaster
+32,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,sexual,sodomy
+40,male,1,male,theft,simpleLarceny
+33,male,1,male,violentTheft,robbery
+18,male,0,nan,royalOffences,coiningOffences
+26,female,1,male,theft,receiving
+24,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,pettyLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,deception,forgery
+56,male,3,male;male;male,sexual,indecentAssault
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,damage,arson
+22,male,3,male;male;male,theft,housebreaking
+not known,male,1,male,theft,burglary
+not known,male,1,male,theft,pocketpicking
+15,female,1,male,theft,stealingFromMaster
+17,male,0,nan,theft,mail
+not known,male,0,nan,deception,fraud
+not known,male,0,nan,theft,grandLarceny
+28,male,1,male,theft,simpleLarceny
+26,male,0,nan,deception,fraud
+36,male,1,male,theft,stealingFromMaster
+not known,female,1,female,theft,theftFromPlace
+not known,male,3,male;male;male,theft,grandLarceny
+20,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+42,male,1,male,theft,simpleLarceny
+23,male,1,female,theft,shoplifting
+not known,male,2,male;male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+18,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+34,male,1,indeterminate,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,other
+not known,male,1,male,kill,murder
+not known,male,0,nan,deception,perjury
+41,male,1,female,breakingPeace,wounding
+24,male,1,female,sexual,bigamy
+50,male,1,male,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+30,male,1,male,theft,simpleLarceny
+34,male,0,nan,theft,embezzlement
+48,female,1,female,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+42,male,1,male,theft,simpleLarceny
+not known,female,0,nan,theft,grandLarceny
+16,male,2,male;male,theft,housebreaking
+not known,male,1,female,sexual,rape
+not known,female,1,female,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+20,male,1,male,theft,grandLarceny
+not known,female,1,female,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+38,female,1,male,theft,pocketpicking
+not known,female,0,nan,royalOffences,coiningOffences
+16,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,shoplifting
+27,male,2,female;female,sexual,keepingABrothel
+not known,male,0,nan,theft,embezzlement
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,grandLarceny
+not known,female,1,male,theft,simpleLarceny
+56,male,1,male,theft,grandLarceny
+not known,male,1,male,breakingPeace,wounding
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,female,theft,burglary
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,pocketpicking
+39,female,0,nan,royalOffences,coiningOffences
+44,male,1,male,theft,simpleLarceny
+35,male,1,female,sexual,rape
+not known,male,0,nan,theft,pocketpicking
+not known,female,1,male,theft,shoplifting
+56,male,1,male,damage,other
+not known,male,0,nan,deception,fraud
+not known,male,0,nan,miscellaneous,returnFromTransportation
+27,male,1,male,theft,stealingFromMaster
+14,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+not known,male,3,male;male;male,deception,forgery
+not known,male,3,indeterminate;male;male,deception,forgery
+15,male,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,grandLarceny
+19,female,1,male,theft,simpleLarceny
+not known,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,simpleLarceny
+not known,male,2,male;female,theft,burglary
+23,male,1,male,theft,simpleLarceny
+not known,male,1,male,deception,fraud
+not known,male,1,male,theft,simpleLarceny
+50,male,1,male,deception,fraud
+not known,male,1,male,theft,grandLarceny
+not known,female,3,indeterminate;male;female,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+67,male,1,male,theft,simpleLarceny
+17,male,1,male,theft,simpleLarceny
+34,male,1,male,theft,theftFromPlace
+not known,male,1,male,violentTheft,highwayRobbery
+not known,female,0,nan,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+52,male,1,male,breakingPeace,wounding
+not known,male,1,male,violentTheft,highwayRobbery
+26,female,0,nan,breakingPeace,wounding
+30,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,stealingFromMaster
+48,female,1,male,theft,pocketpicking
+not known,female,1,male,theft,other
+19,male,0,nan,deception,forgery
+15,male,1,male,theft,theftFromPlace
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,violentTheft,highwayRobbery
+29,male,1,male,theft,stealingFromMaster
+not known,female,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+31,male,1,male,theft,grandLarceny
+39,male,1,male,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+34,male,1,male,theft,animalTheft
+not known,female,1,male,theft,theftFromPlace
+32,male,1,male,theft,burglary
+30,female,2,male;female,damage,arson
+61,male,0,nan,royalOffences,coiningOffences
+not known,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+30,female,1,female,theft,simpleLarceny
+50,male,1,female,kill,manslaughter
+29,male,1,male,theft,simpleLarceny
+not known,female,1,male,kill,murder
+not known,male,1,male,theft,grandLarceny
+30,male,1,male,breakingPeace,assault
+14,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,animalTheft
+not known,female,0,nan,royalOffences,coiningOffences
+43,male,1,female,sexual,bigamy
+not known,male,2,female;female,sexual,bigamy
+not known,female,1,male,theft,shoplifting
+not known,male,1,male,theft,grandLarceny
+35,male,1,male,breakingPeace,wounding
+not known,male,1,male,theft,receiving
+not known,female,1,male,theft,housebreaking
+not known,male,2,male;male,theft,grandLarceny
+33,male,1,female,sexual,assaultWithIntent
+not known,male,1,male,theft,stealingFromMaster
+26,male,0,nan,deception,forgery
+30,male,1,male,theft,grandLarceny
+not known,male,0,nan,theft,other
+34,male,1,male,theft,simpleLarceny
+not known,male,2,female;male,theft,grandLarceny
+31,male,0,nan,theft,embezzlement
+not known,male,1,male,theft,simpleLarceny
+46,male,1,male,theft,simpleLarceny
+33,male,0,nan,royalOffences,coiningOffences
+not known,male,2,male;male,theft,theftFromPlace
+43,female,1,male,theft,grandLarceny
+not known,female,0,nan,theft,theftFromPlace
+40,male,0,nan,theft,simpleLarceny
+30,male,1,female,breakingPeace,assault
+18,male,1,male,theft,housebreaking
+45,male,1,indeterminate,theft,simpleLarceny
+30,male,1,female,sexual,bigamy
+21,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+25,male,1,male,violentTheft,robbery
+61,male,1,male,theft,animalTheft
+16,male,1,male,theft,grandLarceny
+not known,female,1,female,theft,grandLarceny
+not known,male,2,male;male,theft,theftFromPlace
+not known,female,1,female,breakingPeace,wounding
+not known,male,1,male,kill,manslaughter
+21,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,other
+not known,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,other
+36,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,sexual,assaultWithSodomiticalIntent
+not known,female,1,male,theft,grandLarceny
+15,male,1,male,theft,simpleLarceny
+not known,female,1,female,theft,simpleLarceny
+39,male,1,male,theft,grandLarceny
+27,male,0,nan,theft,mail
+32,male,1,male,damage,other
+61,male,1,male,sexual,keepingABrothel
+33,male,1,male,theft,embezzlement
+20,male,1,male,theft,animalTheft
+not known,female,1,male,theft,other
+39,male,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,violentTheft,highwayRobbery
+54,female,1,female,theft,stealingFromMaster
+not known,male,0,nan,deception,perjury
+40,male,1,indeterminate,theft,simpleLarceny
+not known,male,0,nan,theft,grandLarceny
+20,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+21,female,2,female;female,theft,simpleLarceny
+not known,male,1,male,theft,pocketpicking
+not known,male,2,male;male,theft,burglary
+not known,female,1,male,theft,pocketpicking
+25,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,housebreaking
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,indeterminate,theft,grandLarceny
+35,male,1,male,theft,burglary
+not known,female,1,male,theft,simpleLarceny
+not known,male,1,male,kill,murder
+not known,male,1,male,theft,grandLarceny
+27,male,1,female,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+66,male,1,male,breakingPeace,wounding
+not known,female,1,female,theft,stealingFromMaster
+33,male,1,indeterminate,theft,simpleLarceny
+23,male,0,nan,sexual,sodomy
+not known,male,0,nan,miscellaneous,other
+not known,male,1,male,theft,grandLarceny
+22,male,1,male,theft,stealingFromMaster
+41,male,1,male,theft,grandLarceny
+41,male,1,indeterminate,theft,mail
+22,male,1,male,theft,grandLarceny
+15,male,2,indeterminate;male,royalOffences,coiningOffences
+not known,female,2,female;female,theft,grandLarceny
+not known,male,1,female,sexual,assaultWithIntent
+not known,female,1,male,theft,stealingFromMaster
+not known,female,2,male;male,sexual,bigamy
+not known,male,1,male,theft,stealingFromMaster
+62,male,1,male,breakingPeace,wounding
+not known,male,1,male,breakingPeace,wounding
+not known,male,1,male,violentTheft,robbery
+not known,male,1,male,theft,receiving
+not known,male,1,male,sexual,indecentAssault
+31,female,1,female,deception,fraud
+38,male,1,indeterminate,theft,stealingFromMaster
+36,male,0,nan,deception,fraud
+22,female,1,male,theft,pocketpicking
+14,female,1,female,theft,grandLarceny
+not known,male,1,male,theft,pocketpicking
+64,male,1,female,sexual,bigamy
+29,male,1,male,theft,grandLarceny
+not known,male,3,male;male;male,theft,theftFromPlace
+17,male,1,male,theft,extortion
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+60,male,0,nan,deception,forgery
+not known,male,1,male,theft,stealingFromMaster
+31,male,0,nan,deception,fraud
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+41,male,2,female;female,sexual,bigamy
+not known,male,1,male,theft,simpleLarceny
+32,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,simpleLarceny
+21,male,1,male,theft,animalTheft
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,female,2,male;female,violentTheft,highwayRobbery
+not known,male,1,male,theft,other
+21,male,0,nan,royalOffences,coiningOffences
+not known,male,1,female,violentTheft,highwayRobbery
+36,female,2,female;male,theft,simpleLarceny
+18,male,1,female,violentTheft,robbery
+32,male,1,male,deception,fraud
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,0,nan,breakingPeace,assault
+not known,male,1,male,theft,embezzlement
+not known,male,1,male,theft,stealingFromMaster
+20,male,1,male,theft,pocketpicking
+not known,male,2,female;female,sexual,bigamy
+24,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+not known,female,1,male,theft,other
+31,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+40,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+23,male,1,male,theft,simpleLarceny
+46,male,1,male,theft,burglary
+23,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+32,male,1,male,theft,simpleLarceny
+not known,male,0,nan,theft,grandLarceny
+not known,male,1,female,sexual,bigamy
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,housebreaking
+not known,female,2,male;female,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,female,1,female,theft,grandLarceny
+not known,female,1,male,theft,simpleLarceny
+24,male,1,male,violentTheft,robbery
+not known,male,1,male,theft,shoplifting
+20,female,0,nan,kill,infanticide
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+24,male,4,male;male;male;male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,female,sexual,rape
+not known,male,1,male,theft,housebreaking
+40,male,2,male;male,theft,shoplifting
+not known,male,1,male,theft,grandLarceny
+17,male,1,female,sexual,rape
+not known,male,1,male,theft,animalTheft
+not known,male,0,nan,deception,perjury
+37,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,0,nan,royalOffences,coiningOffences
+45,female,1,male,theft,grandLarceny
+35,male,1,male,theft,simpleLarceny
+21,male,2,female;female,theft,housebreaking
+22,female,1,male,theft,simpleLarceny
+not known,female,1,male,theft,other
+27,male,1,male,theft,pocketpicking
+28,male,0,nan,theft,mail
+37,male,2,male;male,theft,theftFromPlace
+not known,female,0,nan,deception,perjury
+not known,female,2,male;male,theft,grandLarceny
+28,male,1,female,sexual,keepingABrothel
+22,male,0,nan,royalOffences,coiningOffences
+27,male,3,male;male;male,theft,simpleLarceny
+20,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+23,male,1,male,theft,stealingFromMaster
+not known,male,2,male;male,theft,simpleLarceny
+38,male,1,male,violentTheft,robbery
+not known,female,1,male,theft,grandLarceny
+16,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+14,male,1,male,theft,pocketpicking
+22,female,0,nan,miscellaneous,concealingABirth
+18,male,1,male,theft,simpleLarceny
+28,male,1,male,theft,embezzlement
+not known,male,2,male;male,theft,grandLarceny
+54,male,1,indeterminate,theft,mail
+not known,male,1,male,theft,simpleLarceny
+33,male,1,female,sexual,rape
+18,male,1,male,sexual,rape
+50,male,1,male,theft,burglary
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+25,male,1,male,theft,grandLarceny
+27,male,1,male,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+19,male,1,male,theft,simpleLarceny
+not known,male,2,female;female,sexual,bigamy
+not known,male,1,male,violentTheft,highwayRobbery
+34,male,1,male,damage,arson
+15,male,1,male,theft,theftFromPlace
+not known,male,1,male,breakingPeace,wounding
+38,female,1,male,kill,manslaughter
+19,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,grandLarceny
+21,male,1,female,sexual,rape
+not known,male,1,female,theft,grandLarceny
+39,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,sexual,bigamy
+not known,male,1,female,sexual,rape
+34,male,0,nan,theft,stealingFromMaster
+35,male,0,nan,royalOffences,coiningOffences
+34,male,0,nan,sexual,sodomy
+not known,female,1,male,theft,theftFromPlace
+28,male,1,female,theft,embezzlement
+16,female,1,female,breakingPeace,wounding
+not known,female,1,male,theft,grandLarceny
+not known,male,1,female,theft,extortion
+22,male,1,male,breakingPeace,wounding
+not known,male,1,male,kill,murder
+not known,female,0,nan,kill,infanticide
+not known,male,1,female,theft,grandLarceny
+36,male,0,nan,theft,theftFromPlace
+not known,female,1,male,theft,pocketpicking
+28,male,1,indeterminate,theft,mail
+not known,female,1,female,miscellaneous,other
+42,male,1,male,theft,theftFromPlace
+17,male,2,male;male,theft,pocketpicking
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,pocketpicking
+42,male,0,nan,theft,receiving
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+22,male,1,male,theft,pocketpicking
+17,male,1,male,violentTheft,robbery
+20,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,pocketpicking
+42,male,1,female,sexual,rape
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,3,male;male;male,theft,burglary
+not known,male,1,male,theft,burglary
+43,male,1,male,theft,simpleLarceny
+32,male,1,female,sexual,indecentAssault
+not known,male,1,male,violentTheft,highwayRobbery
+not known,female,1,male,theft,grandLarceny
+23,male,0,nan,theft,embezzlement
+44,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+18,male,4,male;female;male;male,theft,simpleLarceny
+14,male,1,male,theft,grandLarceny
+23,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,pocketpicking
+not known,male,0,nan,deception,fraud
+not known,male,2,male;male,theft,grandLarceny
+not known,female,0,nan,royalOffences,coiningOffences
+16,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+45,female,1,male,kill,manslaughter
+50,female,1,female,breakingPeace,assault
+not known,female,1,male,theft,theftFromPlace
+26,male,1,male,theft,simpleLarceny
+20,male,1,male,theft,stealingFromMaster
+not known,male,3,female;female;female,theft,housebreaking
+not known,male,0,nan,theft,embezzlement
+32,male,1,female,theft,simpleLarceny
+24,male,2,male;male,breakingPeace,assault
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+48,female,1,male,theft,simpleLarceny
+32,male,2,female;female,sexual,indecentAssault
+not known,male,0,nan,theft,embezzlement
+not known,male,1,male,theft,simpleLarceny
+39,female,1,male,theft,stealingFromMaster
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,kill,murder
+not known,male,1,male,theft,animalTheft
+not known,female,0,nan,deception,perjury
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,theft,grandLarceny
+42,female,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,theftFromPlace
+64,female,1,male,theft,shoplifting
+not known,male,0,nan,deception,fraud
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,simpleLarceny
+45,male,0,nan,deception,forgery
+not known,male,1,male,theft,receiving
+69,male,1,male,theft,embezzlement
+25,male,2,male;male,theft,pocketpicking
+not known,female,1,male,theft,theftFromPlace
+30,male,0,nan,theft,embezzlement
+not known,female,1,male,theft,grandLarceny
+not known,female,1,female,violentTheft,robbery
+24,male,1,male,theft,grandLarceny
+not known,female,0,nan,kill,infanticide
+23,male,0,nan,sexual,bigamy
+18,male,0,nan,royalOffences,coiningOffences
+39,male,1,male,theft,simpleLarceny
+17,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,housebreaking
+26,male,1,male,theft,burglary
+not known,male,1,male,theft,simpleLarceny
+20,male,1,male,theft,simpleLarceny
+not known,male,0,nan,miscellaneous,pervertingJustice
+not known,male,2,male;male,theft,burglary
+not known,male,1,female,theft,grandLarceny
+44,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+23,male,1,male,theft,grandLarceny
+18,female,1,male,theft,simpleLarceny
+23,male,1,male,theft,simpleLarceny
+not known,male,6,male;male;male;male;male;male,deception,forgery
+25,male,0,nan,theft,mail
+not known,male,1,female,theft,burglary
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,deception,forgery
+not known,male,1,male,theft,pettyLarceny
+not known,male,1,female,sexual,bigamy
+not known,male,1,male,theft,theftFromPlace
+43,female,1,female,theft,grandLarceny
+20,male,1,male,theft,simpleLarceny
+28,male,1,female,theft,simpleLarceny
+21,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+26,male,1,male,theft,simpleLarceny
+30,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+18,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,burglary
+18,male,1,male,theft,stealingFromMaster
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+21,male,1,male,deception,fraud
+not known,male,1,male,theft,other
+27,male,1,male,theft,theftFromPlace
+22,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,burglary
+39,female,1,female,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+seventeen,female,2,female;male,theft,grandLarceny
+56,male,1,male,theft,theftFromPlace
+26,male,0,nan,theft,grandLarceny
+22,male,1,male,theft,animalTheft
+not known,male,1,female,theft,stealingFromMaster
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,female,sexual,assaultWithIntent
+not known,male,0,nan,deception,forgery
+not known,male,1,male,theft,pocketpicking
+39,female,1,female,kill,murder
+45,female,1,male,breakingPeace,wounding
+not known,male,1,male,theft,grandLarceny
+47,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,burglary
+26,male,1,male,theft,stealingFromMaster
+not known,female,2,male;female,theft,simpleLarceny
+19,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,pocketpicking
+33,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+17,male,1,male,theft,stealingFromMaster
+30,male,0,nan,deception,fraud
+not known,male,1,male,theft,pettyLarceny
+38,male,2,male;male,theft,stealingFromMaster
+17,male,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+64,male,1,male,deception,fraud
+not known,male,2,male;female,theft,pocketpicking
+not known,female,2,male;female,theft,theftFromPlace
+not known,male,0,nan,breakingPeace,assault
+43,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,theft,grandLarceny
+30,male,1,female,sexual,bigamy
+not known,male,1,male,theft,grandLarceny
+27,male,1,male,theft,simpleLarceny
+45,female,0,nan,deception,fraud
+not known,male,1,male,theft,grandLarceny
+33,male,1,male,theft,simpleLarceny
+17,male,1,male,theft,burglary
+not known,male,1,male,deception,perjury
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,deception,perjury
+35,male,1,female,sexual,rape
+not known,male,1,indeterminate,theft,grandLarceny
+not known,male,1,indeterminate,royalOffences,coiningOffences
+16,male,1,male,breakingPeace,wounding
+20,male,1,male,theft,simpleLarceny
+43,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+28,male,0,nan,deception,forgery
+25,male,1,male,breakingPeace,wounding
+26,male,2,male;male,deception,fraud
+not known,male,0,nan,deception,perjury
+22,male,1,male,theft,simpleLarceny
+40,male,1,male,theft,simpleLarceny
+not known,male,2,female;male,theft,grandLarceny
+27,male,1,male,breakingPeace,wounding
+27,male,1,female,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+48,male,1,male,damage,arson
+32,male,1,male,theft,animalTheft
+not known,male,1,male,kill,manslaughter
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,robbery
+23,male,1,male,theft,pocketpicking
+22,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+18,male,0,nan,deception,forgery
+not known,female,1,male,theft,stealingFromMaster
+25,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,pettyLarceny
+not known,male,1,male,theft,receiving
+not known,male,0,nan,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+16,male,1,female,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+39,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+37,male,1,female,sexual,bigamy
+24,male,0,nan,royalOffences,coiningOffences
+24,male,2,male;male,theft,simpleLarceny
+29,male,1,male,theft,receiving
+21,male,1,female,theft,simpleLarceny
+22,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,simpleLarceny
+25,female,1,male,theft,simpleLarceny
+16,male,1,male,theft,stealingFromMaster
+46,male,0,nan,theft,burglary
+32,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,receiving
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+24,male,1,male,theft,embezzlement
+30,female,2,male;female,theft,theftFromPlace
+not known,male,0,nan,sexual,rape
+not known,male,1,male,theft,grandLarceny
+not known,male,2,female;female,deception,forgery
+24,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,simpleLarceny
+26,male,1,male,theft,simpleLarceny
+24,male,1,male,theft,pocketpicking
+18,male,1,male,theft,burglary
+37,female,0,nan,royalOffences,coiningOffences
+24,male,1,male,theft,simpleLarceny
+not known,male,0,nan,deception,fraud
+not known,male,2,male;male,theft,theftFromPlace
+30,male,1,male,theft,simpleLarceny
+26,male,1,male,theft,animalTheft
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,burglary
+18,male,1,male,theft,simpleLarceny
+42,male,1,male,theft,shoplifting
+not known,male,1,male,damage,arson
+96,male,1,male,theft,simpleLarceny
+21,male,0,nan,royalOffences,coiningOffences
+not known,female,3,male;female;male,theft,stealingFromMaster
+not known,female,0,nan,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+36,male,1,male,theft,simpleLarceny
+not known,male,1,female,sexual,rape
+not known,female,1,male,damage,arson
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,receiving
+not known,female,1,male,theft,pocketpicking
+35,male,1,male,theft,simpleLarceny
+47,male,0,nan,theft,simpleLarceny
+18,male,1,male,theft,grandLarceny
+20,male,1,male,theft,stealingFromMaster
+20,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,pocketpicking
+not known,male,0,nan,breakingPeace,riot
+not known,male,1,male,theft,stealingFromMaster
+not known,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+25,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+19,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,damage,arson
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,theft,burglary
+not known,female,0,nan,miscellaneous,conspiracy
+not known,male,1,male,theft,grandLarceny
+not known,female,1,female,theft,other
+not known,female,2,male;female,theft,pocketpicking
+30,male,2,male;male,theft,grandLarceny
+not known,male,1,female,theft,grandLarceny
+23,male,1,female,theft,pocketpicking
+29,male,1,male,theft,simpleLarceny
+25,male,1,male,theft,theftFromPlace
+not known,female,1,female,theft,other
+not known,female,0,nan,theft,theftFromPlace
+not known,male,0,nan,miscellaneous,returnFromTransportation
+not known,male,0,nan,royalOffences,coiningOffences
+23,male,1,male,theft,embezzlement
+41,male,1,male,theft,simpleLarceny
+not known,male,1,female,kill,manslaughter
+not known,male,1,female,sexual,rape
+not known,male,1,male,theft,theftFromPlace
+23,male,1,male,theft,simpleLarceny
+23,male,0,nan,royalOffences,coiningOffences
+42,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,burglary
+27,male,1,male,theft,receiving
+33,female,1,male,theft,grandLarceny
+34,male,1,indeterminate,theft,mail
+not known,male,0,nan,theft,embezzlement
+25,male,3,male;indeterminate;female,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,deception,fraud
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+36,male,1,female,kill,murder
+17,male,1,male,theft,simpleLarceny
+not known,male,1,female,theft,housebreaking
+53,male,1,male,theft,stealingFromMaster
+40,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,violentTheft,robbery
+39,male,1,female,violentTheft,robbery
+not known,female,1,male,theft,grandLarceny
+29,male,1,male,violentTheft,robbery
+not known,male,1,male,breakingPeace,assault
+not known,male,2,indeterminate;male,royalOffences,coiningOffences
+32,male,0,nan,theft,pocketpicking
+26,male,1,male,theft,grandLarceny
+not known,male,2,male;female,theft,pocketpicking
+not known,male,0,nan,deception,perjury
+21,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,stealingFromMaster
+27,male,1,indeterminate,damage,arson
+22,male,1,male,theft,simpleLarceny
+34,male,1,male,theft,stealingFromMaster
+18,male,0,nan,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+17,male,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,shoplifting
+37,male,1,male,theft,simpleLarceny
+40,male,1,female,theft,simpleLarceny
+not known,female,0,nan,breakingPeace,libel
+not known,male,1,male,theft,stealingFromMaster
+not known,female,1,female,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+21,male,1,female,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,kill,manslaughter
+not known,male,1,female,sexual,rape
+14,female,0,nan,damage,arson
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,theft,grandLarceny
+65,male,0,nan,deception,forgery
+39,male,1,indeterminate,theft,simpleLarceny
+22,male,1,female,violentTheft,robbery
+25,female,0,nan,miscellaneous,concealingABirth
+not known,male,0,nan,theft,embezzlement
+35,male,1,indeterminate,damage,other
+not known,male,0,nan,theft,embezzlement
+not known,female,1,male,theft,theftFromPlace
+34,male,0,nan,theft,embezzlement
+40,female,1,male,theft,simpleLarceny
+not known,male,1,male,deception,forgery
+30,male,1,indeterminate,theft,embezzlement
+18,male,1,male,kill,murder
+21,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,animalTheft
+41,male,1,male,sexual,bigamy
+not known,male,1,male,theft,grandLarceny
+19,male,2,female;male,violentTheft,robbery
+34,male,2,male;male,theft,theftFromPlace
+54,male,3,female;female;female,deception,fraud
+not known,male,1,female,theft,simpleLarceny
+35,male,1,female,sexual,indecentAssault
+not known,male,1,male,theft,simpleLarceny
+35,male,0,nan,royalOffences,coiningOffences
+19,male,1,male,theft,pocketpicking
+not known,male,1,female,theft,theftFromPlace
+30,male,4,female;male;male;male,theft,theftFromPlace
+40,male,1,female,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+35,male,1,male,theft,simpleLarceny
+44,male,0,nan,sexual,sodomy
+14,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,simpleLarceny
+14,male,1,male,theft,shoplifting
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+18,male,1,male,theft,pocketpicking
+20,female,0,nan,miscellaneous,concealingABirth
+34,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,burglary
+not known,female,1,male,theft,theftFromPlace
+25,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,female,2,female;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,deception,fraud
+25,female,1,male,theft,shoplifting
+not known,female,1,female,theft,theftFromPlace
+14,female,1,male,theft,shoplifting
+36,female,0,nan,royalOffences,coiningOffences
+not known,male,1,female,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+33,male,2,male;male,deception,fraud
+not known,male,1,male,theft,grandLarceny
+44,male,1,male,theft,simpleLarceny
+27,female,0,nan,royalOffences,coiningOffences
+20,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,kill,manslaughter
+38,male,1,male,theft,pocketpicking
+34,male,1,male,theft,grandLarceny
+17,male,1,male,theft,simpleLarceny
+26,male,1,male,kill,manslaughter
+not known,male,0,nan,deception,perjury
+51,male,0,nan,deception,fraud
+20,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,theft,embezzlement
+not known,male,1,male,theft,burglary
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+29,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,other
+not known,male,1,male,theft,stealingFromMaster
+27,male,1,male,violentTheft,robbery
+38,female,1,male,damage,arson
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,sexual,indecentAssault
+20,male,0,nan,royalOffences,coiningOffences
+not known,male,1,indeterminate,royalOffences,coiningOffences
+not known,female,1,male,theft,other
+not known,male,1,male,damage,arson
+not known,male,1,male,theft,receiving
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,female,theft,burglary
+24,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+20,male,1,female,theft,grandLarceny
+24,male,1,male,theft,simpleLarceny
+40,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,stealingFromMaster
+27,male,2,male;male,theft,simpleLarceny
+19,male,1,female,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,simpleLarceny
+not known,male,0,nan,theft,embezzlement
+not known,female,1,male,theft,grandLarceny
+15,male,1,male,theft,simpleLarceny
+23,male,1,male,theft,pocketpicking
+not known,female,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+13,male,2,female;male,theft,pocketpicking
+not known,male,0,nan,royalOffences,coiningOffences
+37,male,0,nan,sexual,sodomy
+28,male,1,male,breakingPeace,wounding
+not known,male,1,male,kill,murder
+24,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,embezzlement
+41,male,1,male,breakingPeace,threateningBehaviour
+60,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+42,male,1,female,breakingPeace,wounding
+19,male,1,male,theft,theftFromPlace
+33,male,0,nan,royalOffences,coiningOffences
+16,male,1,male,theft,pocketpicking
+25,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,stealingFromMaster
+not known,male,0,nan,theft,theftFromPlace
+not known,female,0,nan,kill,infanticide
+19,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,theftFromPlace
+42,male,0,nan,deception,forgery
+24,male,1,male,theft,burglary
+57,male,1,indeterminate,deception,fraud
+not known,male,0,nan,breakingPeace,libel
+not known,female,1,female,theft,grandLarceny
+16,male,1,male,theft,simpleLarceny
+30,male,1,indeterminate,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+24,male,1,male,theft,animalTheft
+not known,male,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,grandLarceny
+not known,male,1,male,kill,other
+not known,male,0,nan,theft,embezzlement
+not known,male,1,male,theft,pettyLarceny
+18,female,1,male,theft,simpleLarceny
+not known,male,2,male;male,theft,simpleLarceny
+not known,male,1,male,kill,manslaughter
+not known,male,0,nan,deception,forgery
+not known,male,1,female,breakingPeace,assault
+not known,female,1,male,theft,grandLarceny
+25,female,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+not known,male,1,male,theft,pettyLarceny
+21,male,1,male,theft,pocketpicking
+22,female,1,male,theft,pocketpicking
+22,male,0,nan,royalOffences,coiningOffences
+14,male,1,male,theft,simpleLarceny
+16,male,1,indeterminate,theft,stealingFromMaster
+18,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+39,male,1,male,deception,fraud
+19,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+30,male,0,nan,deception,forgery
+21,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,other
+48,male,1,male,breakingPeace,wounding
+not known,male,1,male,theft,other
+not known,male,0,nan,royalOffences,coiningOffences
+16,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+24,male,1,female,sexual,rape
+68,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,kill,murder
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,embezzlement
+not known,male,1,male,kill,manslaughter
+36,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+42,male,1,male,theft,theftFromPlace
+21,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,stealingFromMaster
+not known,female,2,male;male,theft,theftFromPlace
+19,male,1,male,theft,simpleLarceny
+not known,male,0,nan,deception,bankrupcy
+47,male,1,male,kill,manslaughter
+19,male,0,nan,royalOffences,coiningOffences
+12,female,1,male,theft,pocketpicking
+not known,female,1,male,theft,theftFromPlace
+28,male,1,male,theft,stealingFromMaster
+not known,male,0,nan,theft,receiving
+not known,male,1,male,theft,shoplifting
+50,female,1,male,theft,grandLarceny
+not known,male,1,male,kill,murder
+not known,female,1,male,theft,grandLarceny
+23,male,1,male,theft,grandLarceny
+not known,male,2,female;male,theft,grandLarceny
+42,male,1,male,theft,embezzlement
+23,male,1,male,theft,theftFromPlace
+60,male,1,indeterminate,deception,fraud
+18,male,2,male;male,theft,grandLarceny
+25,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,shoplifting
+not known,male,1,male,theft,grandLarceny
+13,male,1,male,theft,grandLarceny
+27,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,burglary
+22,male,1,male,theft,burglary
+23,male,1,male,theft,embezzlement
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,theftFromPlace
+not known,male,2,male;female,violentTheft,highwayRobbery
+40,male,1,female,sexual,bigamy
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,royalOffences,treason
+not known,female,1,male,theft,grandLarceny
+Ten,male,1,female,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+14,male,1,female,theft,simpleLarceny
+36,male,1,male,violentTheft,robbery
+20,male,1,male,theft,housebreaking
+not known,male,1,female,theft,grandLarceny
+not known,male,0,nan,miscellaneous,other
+not known,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+27,male,1,male,theft,embezzlement
+not known,male,1,male,theft,pocketpicking
+42,male,1,male,theft,pocketpicking
+26,male,0,nan,royalOffences,coiningOffences
+24,male,1,female,theft,pocketpicking
+not known,male,1,male,kill,manslaughter
+not known,male,1,female,theft,grandLarceny
+not known,male,1,female,breakingPeace,assault
+not known,male,1,male,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+36,male,1,male,theft,simpleLarceny
+not known,male,4,male;male;male;male,theft,grandLarceny
+33,male,0,nan,sexual,rape
+57,male,1,male,deception,fraud
+not known,male,1,male,theft,grandLarceny
+41,male,1,male,deception,fraud
+not known,female,1,male,theft,grandLarceny
+36,male,0,nan,theft,stealingFromMaster
+17,male,2,indeterminate;male,theft,burglary
+not known,male,2,male;male,theft,receiving
+not known,female,1,male,theft,simpleLarceny
+19,male,1,female,theft,theftFromPlace
+12,male,1,male,theft,grandLarceny
+not known,male,1,female,theft,simpleLarceny
+not known,male,1,female,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,male,0,nan,royalOffences,coiningOffences
+23,male,1,male,theft,simpleLarceny
+37,male,1,male,deception,fraud
+35,male,1,male,breakingPeace,wounding
+not known,male,1,male,violentTheft,highwayRobbery
+not known,female,1,female,violentTheft,robbery
+not known,male,1,male,deception,forgery
+26,female,2,male;female,theft,pocketpicking
+52,male,1,male,theft,grandLarceny
+42,male,1,male,breakingPeace,wounding
+33,female,1,male,theft,simpleLarceny
+27,male,1,male,theft,theftFromPlace
+not known,male,1,male,deception,forgery
+not known,male,1,male,kill,manslaughter
+20,male,1,female,theft,receiving
+13,male,1,male,theft,pocketpicking
+not known,male,2,male;male,theft,grandLarceny
+35,male,2,male;female,theft,pocketpicking
+not known,female,1,male,theft,grandLarceny
+18,male,1,male,theft,theftFromPlace
+23,male,2,female;female,miscellaneous,kidnapping
+60,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+20,male,1,male,breakingPeace,wounding
+not known,male,0,nan,theft,receiving
+30,male,0,nan,deception,perjury
+26,male,1,male,theft,shoplifting
+39,male,1,indeterminate,theft,mail
+29,male,0,nan,deception,forgery
+18,male,1,male,theft,pocketpicking
+22,male,1,female,sexual,assaultWithIntent
+26,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,embezzlement
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,female,theft,grandLarceny
+not known,female,0,nan,theft,other
+22,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,pocketpicking
+not known,female,1,female,theft,other
+25,male,1,male,theft,stealingFromMaster
+29,male,1,male,breakingPeace,wounding
+29,male,0,nan,royalOffences,coiningOffences
+not known,male,3,male;male;male,deception,perjury
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,kill,murder
+not known,male,1,male,theft,grandLarceny
+13,male,1,male,theft,simpleLarceny
+19,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+25,male,1,male,deception,forgery
+45,male,0,nan,deception,fraud
+22,male,1,male,theft,pocketpicking
+21,female,1,female,theft,simpleLarceny
+57,male,0,nan,miscellaneous,other
+20,male,1,male,theft,simpleLarceny
+sixteen,male,1,male,breakingPeace,wounding
+21,female,1,male,theft,burglary
+not known,female,1,female,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,female,1,female,theft,other
+21,male,1,female,sexual,rape
+29,male,1,male,theft,shoplifting
+43,female,1,male,kill,manslaughter
+22,male,1,male,kill,manslaughter
+not known,male,1,male,damage,arson
+not known,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,female,theft,theftFromPlace
+not known,female,1,female,theft,simpleLarceny
+19,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,grandLarceny
+39,female,0,nan,miscellaneous,illegalAbortion
+44,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,receiving
+not known,male,1,male,theft,grandLarceny
+not known,female,0,nan,royalOffences,coiningOffences
+62,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,burglary
+not known,male,1,male,theft,grandLarceny
+25,female,0,nan,royalOffences,coiningOffences
+not known,female,0,nan,kill,infanticide
+not known,female,1,male,theft,grandLarceny
+not known,male,1,female,theft,other
+23,male,1,male,theft,grandLarceny
+not known,female,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+27,male,2,male;male,deception,fraud
+13,male,1,male,theft,simpleLarceny
+32,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,other
+not known,female,1,male,theft,grandLarceny
+not known,female,1,female,theft,theftFromPlace
+not known,male,0,nan,theft,grandLarceny
+not known,male,0,nan,sexual,rape
+42,male,1,male,theft,grandLarceny
+53,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,theftFromPlace
+not known,male,0,nan,miscellaneous,other
+not known,female,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,receiving
+not known,female,1,male,theft,other
+17,male,0,nan,theft,pocketpicking
+19,male,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,royalOffences,taxOffences
+not known,male,1,male,theft,grandLarceny
+not known,male,2,male;male,theft,simpleLarceny
+not known,female,1,male,theft,simpleLarceny
+29,male,1,male,theft,simpleLarceny
+not known,male,0,nan,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+not known,male,0,nan,royalOffences,coiningOffences
+23,male,1,male,theft,simpleLarceny
+32,male,1,male,theft,simpleLarceny
+28,male,1,female,miscellaneous,kidnapping
+not known,male,1,male,theft,theftFromPlace
+20,male,1,male,theft,embezzlement
+not known,male,1,male,theft,housebreaking
+20,male,1,female,sexual,indecentAssault
+19,male,1,male,theft,grandLarceny
+26,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+50,female,1,male,theft,grandLarceny
+38,female,1,male,theft,shoplifting
+not known,male,0,nan,theft,embezzlement
+22,male,1,indeterminate,theft,mail
+15,female,1,female,theft,simpleLarceny
+22,male,1,male,theft,grandLarceny
+20,male,0,nan,theft,embezzlement
+not known,male,0,nan,theft,embezzlement
+51,female,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+19,female,1,female,theft,grandLarceny
+44,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,pocketpicking
+40,male,1,female,breakingPeace,wounding
+not known,male,1,male,theft,pocketpicking
+27,male,0,nan,theft,embezzlement
+16,male,1,male,theft,burglary
+not known,male,1,female,sexual,rape
+18,male,1,male,theft,burglary
+28,male,1,indeterminate,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,female,2,female;male,theft,other
+35,male,1,male,theft,grandLarceny
+not known,male,1,male,deception,fraud
+18,male,1,female,sexual,rape
+28,female,0,nan,royalOffences,coiningOffences
+not known,female,1,male,deception,perjury
+not known,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,theftFromPlace
+not known,female,0,nan,deception,forgery
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,theft,receiving
+not known,female,1,female,theft,theftFromPlace
+50,female,1,male,theft,simpleLarceny
+42,male,0,nan,breakingPeace,libel
+39,male,0,nan,royalOffences,coiningOffences
+25,male,1,male,theft,grandLarceny
+19,male,1,male,theft,simpleLarceny
+29,male,1,male,breakingPeace,wounding
+13,female,1,male,theft,simpleLarceny
+not known,female,1,male,theft,shoplifting
+23,male,1,male,breakingPeace,wounding
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,grandLarceny
+29,male,1,indeterminate,theft,mail
+19,female,1,male,theft,simpleLarceny
+not known,male,1,female,theft,simpleLarceny
+12,male,1,male,theft,pocketpicking
+32,male,1,female,miscellaneous,kidnapping
+42,male,2,indeterminate;indeterminate,deception,fraud
+not known,female,1,male,theft,grandLarceny
+18,male,1,male,theft,stealingFromMaster
+21,male,1,male,theft,pocketpicking
+32,male,1,female,kill,manslaughter
+not known,male,2,male;male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,sexual,other
+not known,female,0,nan,deception,perjury
+23,male,1,female,theft,theftFromPlace
+not known,female,2,male;male,theft,grandLarceny
+60,male,1,female,deception,fraud
+not known,male,1,male,violentTheft,robbery
+not known,male,1,female,theft,simpleLarceny
+not known,female,1,male,theft,other
+not known,male,1,male,theft,grandLarceny
+not known,male,1,female,theft,grandLarceny
+37,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,robbery
+not known,female,2,male;male,theft,grandLarceny
+15,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,embezzlement
+14,male,0,nan,deception,fraud
+not known,female,1,male,theft,simpleLarceny
+not known,male,0,nan,miscellaneous,other
+35,male,0,nan,deception,forgery
+not known,male,1,male,theft,grandLarceny
+25,male,1,male,theft,simpleLarceny
+not known,male,0,nan,theft,embezzlement
+not known,female,1,female,breakingPeace,assault
+46,male,2,female;female,kill,murder
+not known,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,theftFromPlace
+43,male,1,female,sexual,rape
+not known,male,1,female,kill,manslaughter
+not known,male,1,male,breakingPeace,assault
+not known,female,1,male,theft,grandLarceny
+23,female,1,female,breakingPeace,wounding
+31,male,1,male,theft,theftFromPlace
+57,male,1,male,theft,grandLarceny
+30,male,1,indeterminate,deception,fraud
+not known,male,1,male,theft,receiving
+60,male,1,female,theft,simpleLarceny
+not known,female,2,male;male,theft,theftFromPlace
+60,female,1,female,breakingPeace,wounding
+77,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,animalTheft
+32,male,1,female,breakingPeace,wounding
+not known,male,1,male,theft,theftFromPlace
+15,male,1,male,theft,pocketpicking
+18,female,0,nan,royalOffences,coiningOffences
+30,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+18,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+33,male,1,male,kill,murder
+37,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+18,male,1,male,sexual,sodomy
+27,male,2,male;male,theft,simpleLarceny
+22,female,1,male,theft,grandLarceny
+not known,male,1,female,sexual,rape
+not known,male,1,male,theft,pocketpicking
+45,male,1,male,theft,grandLarceny
+21,female,1,male,theft,simpleLarceny
+26,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+17,male,2,male;female,theft,pocketpicking
+31,male,1,female,sexual,indecentAssault
+17,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,burglary
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,receiving
+not known,female,1,male,theft,grandLarceny
+15,male,1,male,theft,simpleLarceny
+not known,male,1,female,theft,grandLarceny
+not known,male,0,nan,theft,theftFromPlace
+44,female,1,male,theft,simpleLarceny
+39,female,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,shoplifting
+not known,male,1,male,kill,manslaughter
+not known,male,1,male,theft,animalTheft
+15,male,1,male,theft,simpleLarceny
+17,male,0,nan,deception,forgery
+not known,male,2,male;male,theft,simpleLarceny
+24,female,0,nan,royalOffences,coiningOffences
+45,male,1,male,theft,simpleLarceny
+36,male,1,male,theft,simpleLarceny
+55,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+23,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+22,male,1,male,theft,simpleLarceny
+not known,female,0,nan,miscellaneous,concealingABirth
+not known,male,1,male,theft,shoplifting
+36,male,0,nan,deception,perjury
+not known,female,1,male,theft,embezzlement
+23,male,1,indeterminate,theft,mail
+25,female,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+16,female,1,male,theft,stealingFromMaster
+19,male,1,female,theft,pocketpicking
+40,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,grandLarceny
+31,male,2,male;male,deception,fraud
+18,male,1,male,theft,grandLarceny
+21,female,1,male,theft,stealingFromMaster
+26,female,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,grandLarceny
+31,male,1,female,sexual,bigamy
+35,male,1,female,sexual,bigamy
+not known,female,2,male;male,sexual,bigamy
+not known,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,grandLarceny
+20,male,1,male,theft,shoplifting
+not known,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,burglary
+45,female,1,male,theft,simpleLarceny
+35,female,1,male,theft,shoplifting
+not known,male,1,male,theft,simpleLarceny
+16,female,1,male,theft,simpleLarceny
+not known,male,1,male,kill,murder
+not known,female,1,male,theft,simpleLarceny
+not known,male,0,nan,theft,grandLarceny
+not known,male,1,male,theft,housebreaking
+not known,male,1,female,sexual,rape
+29,male,1,male,theft,pocketpicking
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+not known,male,0,nan,sexual,rape
+not known,male,0,nan,deception,fraud
+42,male,1,male,theft,simpleLarceny
+19,male,1,male,theft,stealingFromMaster
+41,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,animalTheft
+not known,male,1,male,theft,housebreaking
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,embezzlement
+not known,male,1,male,theft,stealingFromMaster
+not known,male,1,male,theft,pettyLarceny
+42,male,1,female,sexual,rape
+49,male,1,indeterminate,theft,grandLarceny
+not known,male,1,male,kill,manslaughter
+not known,male,1,male,theft,receiving
+not known,male,1,male,theft,grandLarceny
+22,male,1,male,theft,simpleLarceny
+45,female,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+19,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,simpleLarceny
+33,male,2,male;female,theft,theftFromPlace
+38,male,0,nan,breakingPeace,assault
+23,female,1,male,breakingPeace,wounding
+not known,female,1,female,kill,manslaughter
+20,male,1,male,theft,simpleLarceny
+19,male,1,male,violentTheft,robbery
+22,male,1,male,theft,stealingFromMaster
+45,male,0,nan,royalOffences,coiningOffences
+not known,male,0,nan,theft,embezzlement
+21,female,1,male,theft,stealingFromMaster
+not known,male,1,male,deception,forgery
+not known,male,0,nan,royalOffences,coiningOffences
+not known,male,1,female,theft,shoplifting
+23,male,1,female,sexual,bigamy
+not known,female,1,male,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,female,1,male,theft,pocketpicking
+23,male,0,nan,sexual,sodomy
+36,female,1,male,breakingPeace,wounding
+not known,male,1,male,theft,theftFromPlace
+not known,female,1,male,theft,grandLarceny
+49,female,1,male,theft,simpleLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+24,male,9,male;male;male;male;male;male;male;male;male,theft,grandLarceny
+30,male,1,male,theft,grandLarceny
+22,male,1,male,theft,embezzlement
+34,male,1,male,theft,stealingFromMaster
+63,male,1,male,theft,simpleLarceny
+27,male,1,male,theft,grandLarceny
+23,male,1,female,sexual,rape
+not known,female,1,female,breakingPeace,wounding
+18,female,1,indeterminate,theft,embezzlement
+22,male,0,nan,deception,perjury
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,female,kill,murder
+20,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,deception,forgery
+not known,male,1,male,theft,simpleLarceny
+not known,male,1,male,theft,housebreaking
+not known,male,2,female;female,sexual,bigamy
+25,male,0,nan,deception,forgery
+65,male,1,male,theft,simpleLarceny
+17,male,1,male,theft,grandLarceny
+26,male,1,male,kill,manslaughter
+41,male,0,nan,royalOffences,coiningOffences
+not known,male,1,male,theft,grandLarceny
+not known,male,0,nan,deception,perjury
+50,male,1,female,breakingPeace,wounding
+not known,female,1,male,theft,pocketpicking
+30,female,0,nan,royalOffences,coiningOffences
+not known,female,1,male,theft,simpleLarceny
+21,male,1,male,theft,housebreaking
+21,male,1,male,violentTheft,robbery
+26,male,1,female,theft,theftFromPlace
+not known,male,1,female,theft,grandLarceny
+not known,male,1,male,theft,theftFromPlace
+not known,male,1,male,theft,grandLarceny
+23,male,0,nan,royalOffences,coiningOffences
+28,male,1,indeterminate,theft,embezzlement
+48,male,1,male,kill,manslaughter
+20,male,1,indeterminate,deception,forgery
+52,female,1,male,breakingPeace,wounding
+34,male,1,female,sexual,rape
+not known,female,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+21,male,0,nan,royalOffences,coiningOffences
+15,male,0,nan,deception,forgery
+not known,male,1,male,theft,simpleLarceny
+17,male,1,male,theft,pocketpicking
+12,male,1,male,theft,burglary
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,kill,murder
+not known,male,1,male,theft,grandLarceny
+62,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,shoplifting
+not known,male,0,nan,deception,forgery
+not known,male,1,male,theft,pocketpicking
+not known,male,1,male,theft,burglary
+34,male,1,female,breakingPeace,wounding
+21,male,2,male;male,theft,burglary
+not known,male,1,male,theft,burglary
+not known,male,1,female,sexual,rape
+not known,male,1,female,breakingPeace,wounding
+42,female,1,male,damage,arson
+not known,male,1,male,theft,shoplifting
+26,male,1,male,theft,animalTheft
+30,female,1,female,theft,simpleLarceny
+not known,male,1,female,violentTheft,robbery
+32,male,1,male,theft,stealingFromMaster
+not known,female,1,male,theft,pocketpicking
+20,male,2,male;male,theft,simpleLarceny
+not known,male,1,female,theft,grandLarceny
+15,male,1,male,theft,simpleLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+46,female,0,nan,sexual,bigamy
+19,male,1,male,theft,housebreaking
+23,male,1,male,theft,simpleLarceny
+not known,female,1,male,theft,other
+36,male,1,male,theft,grandLarceny
+not known,female,1,male,theft,grandLarceny
+17,male,1,male,theft,simpleLarceny
+25,male,1,male,kill,manslaughter
+not known,male,1,male,theft,burglary
+21,female,1,female,theft,simpleLarceny
+19,male,1,male,theft,embezzlement
+18,male,1,male,violentTheft,robbery
+25,male,0,nan,theft,embezzlement
+23,male,1,female,theft,burglary
+not known,male,0,nan,deception,perjury
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,violentTheft,highwayRobbery
+20,male,1,male,violentTheft,robbery
+not known,male,1,male,theft,grandLarceny
+23,male,1,indeterminate,theft,simpleLarceny
+not known,female,1,male,theft,grandLarceny
+not known,female,2,male;male,theft,pocketpicking
+not known,male,2,male;male,theft,embezzlement
+not known,male,1,female,theft,grandLarceny
+not known,male,1,male,theft,grandLarceny
+not known,male,1,male,kill,murder
+not known,male,1,indeterminate,theft,grandLarceny
+39,female,1,female,theft,simpleLarceny
+not known,female,1,male,theft,pocketpicking
+not known,male,0,nan,royalOffences,coiningOffences
+18,male,2,male;female,theft,pocketpicking
+48,male,1,male,theft,simpleLarceny
+29,male,1,male,theft,simpleLarceny
+28,male,0,nan,deception,forgery
+28,male,1,male,breakingPeace,wounding
+not known,female,1,male,theft,grandLarceny
+37,male,0,nan,deception,forgery
+not known,male,0,nan,deception,perjury
