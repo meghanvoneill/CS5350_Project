@@ -8,7 +8,7 @@ def main():
 
     weights, bias = training()
 
-    evaluate(weights, bias, '-averaged-perceptron-1')
+    evaluate(weights, bias, '-averaged-perceptron-0-01-102020')
 
     return
 
@@ -18,11 +18,11 @@ def training():
     learning_rates = [1, .1, .01, .001]
     bias = random.uniform(-.01, .01)
 
-    training_file = '../project_data/data/bag-of-words/bow.train.libsvm'
+    training_file = '../project_data/data/tfidf/tfidf.train.libsvm'
     training_set = read_file(training_file)
     training_epochs = 15
 
-    test_file = '../project_data/data/bag-of-words/bow.train.libsvm'
+    test_file = '../project_data/data/tfidf/tfidf.train.libsvm'
     test_set = read_file(test_file)
 
     # Hold out segment of training set for testing.
@@ -31,7 +31,7 @@ def training():
     # Perceptron
     weight_vector, new_bias, predictions, updates, accuracies = averaged_perceptron(training_set['examples'], training_epochs,
                                                                            training_set['# of features'] + 1, bias,
-                                                                           learning_rates[1])
+                                                                           learning_rates[2])
     predictions_on_test = predict_all(weight_vector, new_bias, test_set['examples'])
     training_acc = accuracy(predictions, training_set['examples'])
     test_acc = accuracy(predictions_on_test, test_set['examples'])
@@ -47,14 +47,19 @@ def training():
 
 def evaluate(weights, bias, file_name_addendum):
 
-    eval_file = '../project_data/data/bag-of-words/bow.eval.anon.libsvm'
+    eval_file = '../project_data/data/tfidf/tfidf.eval.anon.libsvm'
     ids_file = '../project_data/data/eval.ids'
-    predictions_file_name = 'eval-predictions' + file_name_addendum + '.csv'
+    predictions_file_name = 'tfidf-eval-predictions' + file_name_addendum + '.csv'
     eval_set = read_eval_file(eval_file, ids_file)
 
     predict_eval_write_file(weights, bias, eval_set['examples'], predictions_file_name)
 
     return
+
+
+def gather_stats(data):
+
+    
 
 
 def read_file(file_name):
@@ -71,7 +76,7 @@ def read_file(file_name):
                 arr = data.split(':')
                 idx = int(arr[0])
                 val = arr[1]
-                new_example[idx] = int(val)
+                new_example[idx] = float(val)
                 data_set['features'].add(idx)
 
             data_set['examples'].append(new_example)
@@ -98,7 +103,7 @@ def read_eval_file(eval_file_name, ids_file_name):
                     arr = data.split(':')
                     idx = int(arr[0])
                     val = arr[1]
-                    new_example[idx] = int(val)
+                    new_example[idx] = float(val)
                     data_set['features'].add(idx)
                 index += 1
                 data_set['examples'].append(new_example)
